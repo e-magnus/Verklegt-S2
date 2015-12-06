@@ -222,8 +222,6 @@ void UI::listRelationship()
     cout << "1: Select computer to see the scientist behinde the machine." << endl;
     cout << "2: Select scientist to see his machines." << endl;
     cout << "3: Display full list." << endl;
-    cout << "4: Display list of ." << endl;
-    cout << "5: Display full list." << endl;
 
 
     cout << endl << "You can press 'M' for MAIN or 'Q' to QUIT." << endl;
